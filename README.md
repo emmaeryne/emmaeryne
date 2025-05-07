@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  
-    <img src="https://img.shields.io/github/followers/emna-awini?label=Followers&style=social" />
+
   </a>
   <a href="https://linkedin.com/in/emna-awini">
     <img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" />
