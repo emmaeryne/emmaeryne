@@ -51,10 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=emna-awini&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-awini&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
----
 
 ### 🌐 Me retrouver ailleurs
 
