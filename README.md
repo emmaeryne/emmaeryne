@@ -26,7 +26,7 @@
 
 - 🧠 Technologies maîtrisées : `Symfony`, `PHP`, `FlutterFlow`, `HTML`, `CSS`, `JavaScript`
 - 🛠️ Autres compétences : Git, Figma, UI/UX, MySQL, PostgreSQL, Linux
-- 📫 Me contacter : **emna.awini.dev@gmail.com**
+- 📫 Me contacter : **emna.awini@esprit.tn**
 - ✍️ Fun fact : Je code avec une tasse de café... mais mes bugs sont souvent causés par une absence de sucre 😄
 
 ---
@@ -65,7 +65,7 @@ Conception de maquettes responsives avec interactions réelles pour des applis n
 ### 🌐 Me retrouver ailleurs
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emna-awini"><img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/emma-awini-49b9671ba/"><img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" /></a>
   <a href="https://github.com/emna-awini"><img src="https://img.shields.io/badge/GitHub-emna--awini-black?logo=github" /></a>
   <a href="mailto:emna.awini@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
 </p>
