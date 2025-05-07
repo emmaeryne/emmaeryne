@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/emna-awini">
     <img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" />
   </a>
-  <a href="mailto:emna.awini.dev@gmail.com">
+  <a href="mailto:emna.awini@esprit.tn">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
@@ -60,19 +60,7 @@ Conception de maquettes responsives avec interactions réelles pour des applis n
 
 ### 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emna-awini&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emna-awini&theme=tokyonight" alt="Streak GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-awini&layout=compact&theme=tokyonight" alt="Langages préférés" />
-</p>
-
----
 
 ### 🌐 Me retrouver ailleurs
 
