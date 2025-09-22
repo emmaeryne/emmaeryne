@@ -1,70 +1,68 @@
-<h1 align="center">Salut 👋, je suis <span style="color:#00bfff;">Emna Awini</span></h1>
-<h3 align="center">🚀 Développeuse Full Stack | Créatrice de solutions digitales innovantes</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emna-awini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-
-  </a>
-  <a href="https://linkedin.com/in/emna-awini">
-    <img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:emna.awini@esprit.tn">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
+# <div align="center">Hello 👋, I'm <span style="color:#00bfff;">Emna Awini</span></div>
 
 ---
 
-### 👩‍💻 Qui suis-je ?
+## 👩‍💻 About Me
 
-💡 Développeuse passionnée, je conçois des interfaces web et desktop modernes, performantes et centrées utilisateur.  
-🎯 Ma mission ? Transformer vos idées en applications fluides et efficaces.
+💡 As a passionate female software developer, I specialize in crafting modern, high-performance, and user-centric web and desktop applications.  
+🎯 My mission is to transform innovative ideas into scalable, efficient, and impactful digital solutions that empower users and businesses alike.
 
-- 🧠 Technologies maîtrisées : `Symfony`, `PHP`, `FlutterFlow`, `HTML`, `CSS`, `JavaScript`
-- 🛠️ Autres compétences : Git, Figma, UI/UX, MySQL, PostgreSQL, Linux
-- 📫 Me contacter : **emna.awini@esprit.tn**
-- ✍️ Fun fact : Je code avec une tasse de café... mais mes bugs sont souvent causés par une absence de sucre 😄
-
----
-
-### 🎯 Projets récents
-
-🚴‍♀️ **Gestion de Complexe Sportif**  
-Plateforme complète pour clients, coachs et administrateurs avec gestion des abonnements, cours, réservations et produits.
-
-📱 **Applications mobiles FlutterFlow**  
-Conception de maquettes responsives avec interactions réelles pour des applis natives.
+- 🧠 **Core Technologies**: `Symfony`, `PHP`, `FlutterFlow`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Next.js`, `Spring Boot`  
+- 🛠️ **Additional Expertise**: Git, Figma, UI/UX Design, MySQL, PostgreSQL, Linux, Power BI, Machine Learning Frameworks  
+- 📫 **Contact Me**: [emna.awini@esprit.tn](mailto:emna.awini@esprit.tn)  
+- ✍️ **Fun Fact**: I fuel my coding sessions with a cup of coffee, but a sprinkle of sugar is my secret weapon against pesky bugs! 😄  
 
 ---
 
-### 📈 Objectifs pour 2025
+## 🎯 Recent Projects
 
-- 🚀 Publier ma première application mobile en production
-- 👩‍🏫 Partager du contenu tech et pédagogique sur GitHub
-- 🌍 Contribuer à des projets open source collaboratifs
-- 🔧 Monter en compétence sur DevOps & sécurité web
+🚴‍♀️ **Sports Complex Management Platform**  
+A robust full-stack platform enabling seamless management of subscriptions, class schedules, reservations, and inventory for clients, coaches, and administrators, with a focus on intuitive workflows and real-time updates.
+
+📱 **FlutterFlow Mobile Applications**  
+Designed and developed responsive prototypes and native mobile apps, ensuring cross-platform compatibility and engaging user experiences.
+
+🤖 **Predictive Systems for Decision-Making**  
+Built machine learning-driven predictive analytics tools integrated with Power BI, revolutionizing data-driven decision-making by enhancing accuracy and operational efficiency across industries.
+
+👩‍💼 **HR Scoring Web Application**  
+Developed a sophisticated web app to streamline HR processes, leveraging scoring algorithms to evaluate candidate profiles and optimize talent acquisition.
+
+⚖️ **Avocat Connect Web Application** *(Launching in 2026)*  
+Currently developing a secure, user-friendly platform to connect lawyers and clients, featuring advanced case management, real-time communication, and compliance tools, set for release in 2026.
 
 ---
 
-### 🧰 Mes outils préférés
+## 📈 Goals for 2025 and Beyond
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,flutter,figma,github,git,vscode,linux,postgres,mysql" />
-</p>
+- 🚀 Launch my first production-ready mobile application.  
+- 👩‍🏫 Share in-depth technical tutorials and educational content on GitHub.  
+- 🌍 Contribute meaningfully to open-source projects and foster collaborative innovation.  
+- 🔧 Deepen expertise in DevOps, cloud infrastructure, and web security practices.  
 
 ---
 
-### 📊 Mes Statistiques GitHub
+## 🧰 My Favorite Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,flutter,figma,github,git,vscode,linux,postgres,mysql,powerbi,nodejs,nextjs,spring" />
+</div>
 
+---
 
-### 🌐 Me retrouver ailleurs
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emma-awini-49b9671ba/"><img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" /></a>
-  <a href="https://github.com/emna-awini"><img src="https://img.shields.io/badge/GitHub-emna--awini-black?logo=github" /></a>
-  <a href="mailto:emna.awini@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emna-awini&show_icons=true&theme=radical" alt="Emna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emna-awini&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/emma-awini-49b9671ba/"><img src="https://img.shields.io/badge/LinkedIn-Emna%20Awini-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/emna-awini"><img src="https://img.shields.io/badge/GitHub-emna--awini-black?logo=github" alt="GitHub" /></a>
+  <a href="mailto:emna.awini@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
+</div>
