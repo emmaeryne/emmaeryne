@@ -33,7 +33,7 @@ Currently developing a secure, user-friendly platform to connect lawyers and cli
 
 ---
 
-## 📈 Goals for 2025 and Beyond
+## 📈 Goals for 2026 and Beyond
 
 - 🚀 Launch my first production-ready mobile application.  
 - 👩‍🏫 Share in-depth technical tutorials and educational content on GitHub.  
