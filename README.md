@@ -6,6 +6,15 @@
 
 ---
 
+## ✨ Dynamic Typing Intro
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Data+%26+ML+Enthusiast;UI%2FUX+Passionate;Always+Learning+%26+Innovating)
+
+</div>
+
+---
+
 ## 🚀 Quick Stats
 <div align="center">
 
@@ -15,16 +24,6 @@
 ![Contributions](https://img.shields.io/github/commit-activity/m/emna-awini/emna-awini?color=green)  
 
 </div>
-
----
-
-## 🔥 About Me
-👩‍💻 Full-stack Developer | 📊 Data & ML Enthusiast | 🎨 UI/UX Lover | 🚀 Product Builder  
-
-- 💡 Je construis des solutions qui combinent **code propre + design moderne + data intelligente**  
-- 🌱 Actuellement : **Cloud, DevOps & Web Security**  
-- 🎯 Objectif 2026 : Lancer **Avocat Connect** & mon **premier mobile app en prod**  
-- ✨ Fun fact : J’aime transformer du café ☕ en code ✨  
 
 ---
 
@@ -39,7 +38,7 @@
 
 ## 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,flutter,figma,github,git,vscode,linux,postgres,mysql,powerbi,nodejs,nextjs,spring,docker,aws,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,flutter,figma,github,git,vscode,linux,postgres,mysql,powerbi,nodejs,nextjs,spring,docker,aws,react,tailwind,python,java,ts" />
 </div>
 
 ---
@@ -66,6 +65,33 @@
 
 ---
 
+## 📬 Latest GitHub Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/emna-awini/sports-complex/pull/12) in `sports-complex`
+2. 💡 Opened issue [#45](https://github.com/emna-awini/avocat-connect/issues/45) in `avocat-connect`
+3. ✨ Pushed commits to `flutterflow-app`
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [5 conseils pour sécuriser vos apps web en 2026](https://dev.to/emna-awini)  
+- [FlutterFlow vs React Native : quel choix en 2026 ?](https://dev.to/emna-awini)  
+- [Comment intégrer ML et Power BI facilement](https://dev.to/emna-awini)  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌟 Inspirational Quote of the Day
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
 ## 🗺️ Roadmap 2026+
 - 🚀 Lancement officiel de **Avocat Connect**  
 - 👩‍🏫 Publier des tutoriels techniques open-source  
@@ -86,5 +112,5 @@
 ## 🎉 Fun Zone
 > 🌌 "Code. Coffee. Create. Repeat." ☕💻✨  
 >  
-> 💡 Astuce : refresh mon profil dans quelques mois → tu trouveras sûrement de nouveaux projets en prod 🚀
+> ✨ Fun fact : même mon README s’auto-met à jour chaque jour 🚀  
 
