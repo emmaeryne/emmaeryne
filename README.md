@@ -59,7 +59,7 @@
 ## 🐍 Contribution Snake
 <div align="center">
   
-![Snake animation](https://github.com/emmaeryne/emmaeryne/commit/efc7990ae5ae8b8e97cb84136c5b464d30c589a4#diff-f76f4cd59356f34cfacdb63f2e4dad81c961caeb59e52dca20272ea82f95ca48)
+![Snake animation](https://github.com/emna-awini/emna-awini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
