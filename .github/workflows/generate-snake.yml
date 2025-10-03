@@ -15,10 +15,10 @@ jobs:
         with:
           github_user_name: emna-awini
           outputs: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
+      - - uses: actions/upload-artifact@v4
+  with:
+    name: my-artifact
+    path: path/to/artifact
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3
         with:
